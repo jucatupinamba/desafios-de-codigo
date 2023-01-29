@@ -1,4 +1,4 @@
-package dio.intermediario;
+package dio.ifoodDesafioIntermediario;
 
 import java.util.Scanner;
 

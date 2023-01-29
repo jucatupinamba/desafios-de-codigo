@@ -1,4 +1,4 @@
-package dio.intermediario;
+package dio.ifoodDesafioIntermediario;
 /*
     Desafios realizados no bootcamp. Enunciado no final do código.
     Juarez Martins - 943617199

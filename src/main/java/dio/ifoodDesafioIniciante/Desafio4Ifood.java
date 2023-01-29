@@ -1,4 +1,4 @@
-package dio.iniciante;
+package dio.ifoodDesafioIniciante;
 
 import java.util.*;
 
