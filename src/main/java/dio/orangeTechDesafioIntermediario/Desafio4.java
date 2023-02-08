@@ -8,7 +8,7 @@ para ajudá-los com seus conhecimentos de programação. Ao conversar com o gere
 ele te explicou que a vontade da lanchonete era criar um menu com os nomes dos
 ingredientes formando o lanche.
 
-Exemplo de entrada:    Pao;Presunto;Carne;Pao 
+Exemplo de entrada:    Pao;Presunto;Carne;Pao
  */
 
 import java.util.Scanner;
