@@ -8,7 +8,7 @@ O seu amigo quer verificar quais os imóveis estão disponíveis em uma certa
  amigo deixando a informação mais amigável possível.
 
  Exemplo entrada String: Casa/1900/Disponivel
-                         Apartamento/850/Indisponivel 
+                         Apartamento/850/Indisponivel
  */
 
 import java.util.Scanner;
