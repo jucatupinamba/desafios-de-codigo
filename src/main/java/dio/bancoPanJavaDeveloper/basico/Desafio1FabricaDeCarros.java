@@ -1,4 +1,4 @@
-package dio.bancoPanJavaDeveloper.intermediario;
+package dio.bancoPanJavaDeveloper.basico;
 
 /*
     O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos
