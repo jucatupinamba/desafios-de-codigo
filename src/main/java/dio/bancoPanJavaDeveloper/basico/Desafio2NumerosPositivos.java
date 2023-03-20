@@ -3,7 +3,7 @@ package dio.bancoPanJavaDeveloper.basico;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Desafio2FabricaDeCarros  {
+public class Desafio2NumerosPositivos  {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         int cont = 0;
